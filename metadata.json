@@ -1,0 +1,5 @@
+{
+  "name": "RelayProbe",
+  "description": "A high-performance bulk verification tool for LLM Relay APIs and Google GenAI endpoints. Features real-time latency tracking, status visualization, and comprehensive health checks.",
+  "requestFramePermissions": []
+}
